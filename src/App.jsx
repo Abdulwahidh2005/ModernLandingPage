@@ -12,6 +12,7 @@ function App() {
     <div className="min-h-screen bg-slate-950 overflow-hidden text-white">
       <Navbar />
       <Hero />
+      <Features />
     </div>
   )
 }
