@@ -42,7 +42,7 @@ const Hero = () => {
       <div className="max-w-7xl mx-auto text-center relative w-full">
         <div className="max-w-7xl mx-auto flex flex-col lg:grid lg:grid-cols-2 gap-6 lg:gap-12 sm:gap-8 items-center relative">
           <div>
-            <div className="inline-flex items-center space-x-2 px-3 sm:px-4 py-2 bg-blue-500/10 border-blue-500/20 rounded-full mb-4 sm:mb-6 animate-in slide-in-from-bottom">
+            <div className="inline-flex items-center space-x-2 px-3 sm:px-4 py-2 bg-blue-500/10 border-blue-500/20 rounded-full mb-4 sm:mb-6 mt-20 sm:mt-24 lg:mt-32 animate-in slide-in-from-bottom">
               <Sparkles />
               <span className="text-xs sm:text-sm text-blue-300">Introducing CodeFlow AI</span>
             </div>

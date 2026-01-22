@@ -14,6 +14,8 @@ function App() {
       <Hero />
       <Features />
       <Pricing />
+      <Testimonials />
+      <Footer />
     </div>
   )
 }
